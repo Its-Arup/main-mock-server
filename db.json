@@ -1289,5 +1289,133 @@
             "activity": ["Wine Tasting in the Vineyards", "Exploring the Quais des Chartrons", "Visiting the Musée d'Aquitaine"],
             "food": ["Entrecôte Bordelaise", "Canelés", "Pain au Chocolat"]
           }
+  ],
+  "testimonials":[
+    {
+      "name" : "Prabhakar kumar",
+      "imgAvatar":"4",
+      "review" : "Quick turnaround. Got all the booking done within 2 days. Responsive support team. Overall highly recommended for people who loves travelling.",
+      "rating": "4.6"
+    },
+    {
+      "name": "Alice Johnson",
+      "imgAvatar": "8",
+      "review": "Excellent service! The team was very helpful in planning our vacation. They provided great recommendations and everything went smoothly.",
+      "rating": "4.8"
+    },
+    {
+      "name": "John Smith",
+      "imgAvatar": "2",
+      "review": "Fast and efficient service. The booking process was easy, and they promptly addressed any queries. Had a wonderful experience.",
+      "rating": "4.6"
+    },
+    {
+      "name": "Emily Brown",
+      "imgAvatar": "6",
+      "review": "Highly satisfied with the service. They customized our itinerary perfectly, and the trip exceeded our expectations. Definitely recommend!",
+      "rating": "4.9"
+    },
+    {
+      "name": "Michael Lee",
+      "imgAvatar": "3",
+      "review": "Great customer support! They were responsive and attentive throughout the trip. We had a fantastic time and will book with them again.",
+      "rating": "4.7"
+    },
+    {
+      "name": "Sophia Wilson",
+      "imgAvatar": "1",
+      "review": "Amazing experience! Everything was well-organized, and we enjoyed every moment of our vacation. Will definitely use their services again.",
+      "rating": "4.9"
+    },
+    {
+      "name": "Daniel Martin",
+      "imgAvatar": "5",
+      "review": "Wonderful tour arrangements. We had an unforgettable journey with no hassles. Their expertise made our trip stress-free and enjoyable.",
+      "rating": "4.8"
+    },
+    {
+      "name": "Olivia Taylor",
+      "imgAvatar": "9",
+      "review": "Very happy with their service. The team was friendly and accommodating. They went the extra mile to make our trip special.",
+      "rating": "4.7"
+    },
+    {
+      "name": "David Anderson",
+      "imgAvatar": "4",
+      "review": "Smooth booking process and great suggestions for activities. The trip was fantastic, and we appreciated their attention to detail.",
+      "rating": "4.6"
+    },
+    {
+      "name": "Ava Garcia",
+      "imgAvatar": "7",
+      "review": "Highly recommended! They helped us plan an incredible vacation. The arrangements were top-notch, and we had a fantastic time.",
+      "rating": "4.9"
+    },
+    {
+      "name": "William Rodriguez",
+      "imgAvatar": "10",
+      "review": "Very satisfied with their service. They were patient and understanding with our requests. We had an unforgettable journey.",
+      "rating": "4.7"
+    },
+    {
+      "name": "Sophie Adams",
+      "imgAvatar": "7",
+      "review": "Absolutely loved the trip! The arrangements were flawless, and the customer support was superb. Highly recommend their services.",
+      "rating": "4.8"
+    },
+    {
+      "name": "Ethan Clark",
+      "imgAvatar": "3",
+      "review": "Incredible experience! The team went above and beyond to ensure we had a fantastic vacation. Will definitely book again.",
+      "rating": "4.9"
+    },
+    {
+      "name": "Isabella Roberts",
+      "imgAvatar": "9",
+      "review": "Efficient service and well-planned itinerary. We had a wonderful time exploring new places. Thank you for the unforgettable memories.",
+      "rating": "4.7"
+    },
+    {
+      "name": "Mason Turner",
+      "imgAvatar": "1",
+      "review": "Quick and easy booking process. Everything was taken care of, making our trip stress-free. Highly recommended!",
+      "rating": "4.6"
+    },
+    {
+      "name": "Charlotte White",
+      "imgAvatar": "5",
+      "review": "Great value for money! The trip was well-organized, and we enjoyed every moment. Thank you for a fantastic experience.",
+      "rating": "4.9"
+    },
+    {
+      "name": "Lucas King",
+      "imgAvatar": "8",
+      "review": "The support team was excellent, addressing all our queries promptly. We had a memorable vacation, thanks to their expertise.",
+      "rating": "4.7"
+    },
+    {
+      "name": "Amelia Hill",
+      "imgAvatar": "2",
+      "review": "Outstanding service! From start to finish, the trip was well-planned, and the destinations were remarkable.",
+      "rating": "4.8"
+    },
+    {
+      "name": "Henry Turner",
+      "imgAvatar": "6",
+      "review": "Had an amazing time! The tour guides were knowledgeable, and we had a great mix of activities throughout the trip.",
+      "rating": "4.5"
+    },
+    {
+      "name": "Grace Scott",
+      "imgAvatar": "10",
+      "review": "Highly satisfied with the experience. The team was professional and friendly, creating a memorable journey for us.",
+      "rating": "4.6"
+    },
+    {
+      "name": "Oliver Carter",
+      "imgAvatar": "4",
+      "review": "Wonderful trip! The services exceeded our expectations, and we were well taken care of throughout the vacation.",
+      "rating": "4.7"
+    }
   ]
 }
